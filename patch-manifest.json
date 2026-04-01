@@ -1,0 +1,13 @@
+{
+  "manifestVersion": 1,
+  "baseUrl": "https://www.thorium-reforged.org/Downloads/",
+  "generatedAt": "Wed 04/01/2026  6:25:05.61",
+  "files": [
+    {
+      "name": "Patch-8.MPQ",
+      "url": "Patch-8.MPQ",
+      "size": 1078235456,
+      "sha256": "0d3a52bf952f78efcb32273d8eb498ba04063c23ef566e001bb8a1a53156a47f"
+    } 
+  ] 
+} 

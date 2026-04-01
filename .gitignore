@@ -1,0 +1,20 @@
+# Large patch files
+*.mpq
+
+# Temporary/cache files
+*.tmp
+*.tmp.*
+*.cache
+*.cache.json
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.user
